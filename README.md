@@ -1,7 +1,6 @@
 - 👋 Hi, I’m shreyansh gupta  
-- 👀 I’m interested in...
+- i'm studying at G.L. Bajaj Institute Of Technology And Management
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...@shreyanshgupta138@gmail.com
 
 <!---
